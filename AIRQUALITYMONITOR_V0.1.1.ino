@@ -216,12 +216,6 @@ void loop() {
   }
 }
 
-
-
-
-
-
-
 void readBME688()
 {
   if (iaqSensor.run() && bme.performReading()) {
