@@ -1,7 +1,7 @@
 
 // Fill-in information from your Blynk Template here
-#define BLYNK_TEMPLATE_ID "TMPL3HL8CZ2I"
-#define BLYNK_DEVICE_NAME "BME688Monitor"
+#define BLYNK_TEMPLATE_ID ""
+#define BLYNK_DEVICE_NAME ""
 
 #define BLYNK_FIRMWARE_VERSION        "0.1.3"
 
